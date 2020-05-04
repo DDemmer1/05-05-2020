@@ -27,6 +27,7 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [🎥 Börges Seminar Video](https://uni-koeln.sciebo.de/s/CnL5Cg1opl8QceE)
 - [🎥 Rekursion einfach erklärt](https://www.youtube.com/watch?v=weTpjhDnLnc)
+- [🎥 Comparable vs Comparator in Java](https://www.youtube.com/watch?v=weTpjhDnLnc)
 
 - [📃 Difference between Comparable and Comparator](https://www.javatpoint.com/difference-between-comparable-and-comparator)
 - [📃 Comparable vs Comparator in Java](https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
